@@ -1,17 +1,17 @@
 var config = {
     database: {
         // Heroku
-        // host: 'us-cdbr-east-02.cleardb.com',
-        // user: 'b9e8051bd1e14c',
-        // password: '5ff1e4a1',
-        // database: 'heroku_114918c2a6320f6'
+        host: 'us-cdbr-east-02.cleardb.com',
+        user: 'b1d1caca850930',
+        password: 'f26f60e3',
+        database: 'heroku_162ff9e2eff7d02'
 
         // Localhost
-        host: 'localhost',
-        user: 'root',
-        password: '',
-        port: 3306,
-        database: 'als_db'
+        // host: 'localhost',
+        // user: 'root',
+        // password: '',
+        // port: 3306,
+        // database: 'als_db'
     },
     server: {
         host: '127.0.0.1',
